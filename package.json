@@ -1,0 +1,26 @@
+{
+  "name": "ossy",
+  "version": "1.0.0",
+  "description": "Deneme projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "osy": "echo 'Selam' ",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Oğuzhan Canverdi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.10",
+    "nodemailer": "^6.4.14",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teknossy/oguzhan-canverdi.git"
+  }
+}
